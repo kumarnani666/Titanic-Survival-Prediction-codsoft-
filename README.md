@@ -1,1 +1,1 @@
-# Titanic-Survival-Prediction-codsoft-
+# Titanic-Survival-Prediction-CODSOFT-
